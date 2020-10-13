@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malte311&layout=compact)
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Malte311&count_private=true&show_icons=true)
+-->
 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=Malte311.Malte311)
